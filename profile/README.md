@@ -1,4 +1,4 @@
-<img width="1512" alt="builder-screenshot" src="[https://github.com/webstudio-is/.github/assets/52824/a844b26b-ee60-4c9b-bddb-6c54aa12e26c](https://github.com/webstudio-is/.github/blob/main/assets/builder-screenshot.png?raw=true)">
+<img width="1512" alt="builder-screenshot" src="https://github.com/webstudio-is/.github/blob/main/assets/builder-screenshot.png?raw=true">
 
 
   <br /><br />
