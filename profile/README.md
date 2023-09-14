@@ -9,6 +9,7 @@
 
 ## Learning Resources
 
+- [CLI and Self-hosting](https://github.com/webstudio-is/webstudio/tree/main/packages/cli)
 - [Blog](https://webstudio.is/blog)
 - [Community Documentation](https://github.com/webstudio-is/webstudio/tree/main/docs)
 - [Brand and Product Design](https://github.com/webstudio-is/webstudio-design/)
